@@ -135,7 +135,7 @@ class DOT_COM(Domain):
     def __init__(self) -> None:
         super().__init__(
             top_level='com',
-            sign_in='Sign In',
+            sign_in='Sign in',
             sign_out='Sign Out',
 
             your_orders='Your Orders',
